@@ -1,3 +1,4 @@
+buying_price,maintenance_cost,no_of_doors,capacity,luggage_size,safety_level,class
 vhigh,vhigh,2,2,small,low,unacc
 vhigh,vhigh,2,2,small,med,unacc
 vhigh,vhigh,2,2,small,high,unacc
